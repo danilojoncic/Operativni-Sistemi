@@ -24,7 +24,7 @@ Naime, moj kod za 3. domaci je zapravo zaobisao citav zahtjev za izmjenu stranic
 ### Kako pokrenuti?
 1. Koristiti Linux Ubuntu 22.04 (VirtualBox emulator za Windows)
 2. Preuzeti QEMU 
-3. Uraditi git pull repozetorijuma 
+3. Uraditi git clone repozetorijuma 
 4. U preuzetom folderu uci u odgovarajuci podfolder domaceg (`cd domaci1`)
 5. Unutar datog foldera uraditi komandu `make qemu`
 
